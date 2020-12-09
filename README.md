@@ -1,30 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align='justify'>
 
-## Getting Started
+<div align='center'>
 
-First, run the development server:
+# 🔗 https://x0n4d0.github.io/
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### **Meu Website / Blog**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- Badges -->
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![](https://img.shields.io/badge/build-next.js-333)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+</div>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## **🔎 SOBRE O PROJETO**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+O objetivo do projeto é desenvolver o meu site pessoal utilizando uma tecnologia nova, o **Next.js**. Inserir minhas informações pessoais, portifólio, blog, área de contato e uma opção para download do meu currículo.
 
-## Deploy on Vercel
+## 💻 **TECNOLOGIAS**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [TypeScript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
+- [Styled Components](https://styled-components.com/)
+- [Github Actions](https://docs.github.com/en/free-pro-team@latest/actions)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## **📰 LICENÇA**
+
+Este repositório está sobre a licença da **MIT**. Para mais informações, leia o arquivo [LICENSE](./LICENSE).
+
+</div>
